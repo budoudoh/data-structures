@@ -1,0 +1,13 @@
+oreo_flavor,rater_n,rater_c,rater_r,rater_k,rater_a,average_across_raters,notes_and_discussion
+pb&j,1.5,4,2,-,-,2.5,strong but artificial taste; peanut butter better than jelly
+mega stuf,2.5,3,4,-,1.5,2.75,"too much stuffing to eat easily, cookies separated & slid"
+lemon,4.5,3.5,1.5,-,3.5,3.25,strong artificial lemon flavor
+chocolate,3.5,3,3.5,3,4,3.4,"weak chocolate flavor, tasted like an American candy bar, not high quality chocolate"
+birthday cake,2.5,5,2.5,4,3,3.4,"didn't taste like birthday cake, most like ready-made icing/funfetti"
+double stuf,3.5,4,3,3,3.5,3.4,default Oreos
+red velvet,4,3,4.5,4,2.5,3.6,realistic red velvet taste with cream cheese flavored filling
+Dunkin' Donuts Mocha,2.5,1,5,5,5,3.7,"tasted like coffee, specifically Dunkin' coffee"
+mini,3,4,4,-,4.25,3.8125,taste like Oreos
+"thins, coconut",3.5,4.5,3,4.5,4.5,4,"very light coconut flavor, more like a coconut-flavored candy"
+mint,3.5,4,4.5,4,4.25,4.05,"strong mint flavor, creme alone was toothpasty"
+cinnamon bun,-,4.5,4.5,4.5,4,4.375,"strong cinnamon flavor, did not capture the essence of a bun"
