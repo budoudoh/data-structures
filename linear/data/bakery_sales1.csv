@@ -1,4 +1,4 @@
-TransID,Product,Amount,Type
+TransID,Product,Price,Type
 1,Coffee Eclair,3.5,Food
 1,Blackberry Tart,3.25,Food
 1,Bottled Water,1.8,Drink

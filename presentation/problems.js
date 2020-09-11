@@ -1,3 +1,5 @@
+const { count } = require("console");
+
 //Arrays Sample Problem
 function hasDessert(desserts, dessert){
     for(let i = 0; i < desserts.length; i++){
@@ -63,3 +65,16 @@ function howManyDessertsAreBetter(dessertBTS, currentDessert){
 }
 
 //Graph Sample problem
+function howManyFriendsLikeDessert(friendGraph, me, dessert){
+    let friends = friendGraph.getEdges(me);
+    let count = 0; 
+    for(let i = 0; i < friends.length; i++){
+        let friend = friends[i];
+        if(friend.favorite_dessert == dessert){
+            count++
+        }
+    }
+
+    return count;
+
+}
