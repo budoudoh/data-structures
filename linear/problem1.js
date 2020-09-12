@@ -11,7 +11,7 @@
 
     { TransID: '299',
       Product: 'Cheese Croissant',
-      Amount: '1.75',
+      Price: '1.75',
       Type: 'Food' 
     }
     

@@ -11,7 +11,7 @@
 
     { TransID: '299',
       Product: 'Cheese Croissant',
-      Amount: '1.75',
+      Price: '1.75',
       Type: 'Food' 
     }
     
@@ -26,7 +26,7 @@
     to use to solve this problem. Then within the lambda statement on line 53, use the correct 
     function for your chosen data structure to add each row parsed from the report file to your data
     structure. Finally, use the function "returnHundrethItem" to define the logic you want to you with your 
-    data structure to count the number of times the last item in the list appears in the report. When you 
+    data structure to give us the hundreth item from the correctly ordered sales report. When you 
     are ready to run your code, navigate the console to the folder that holds this file
     ("cd linear"), then type the commands "npm install" and "npm run problem2" into the command line on 
     repl.it to run the code. Remember,you can refer to the README file for the documentation for each type 

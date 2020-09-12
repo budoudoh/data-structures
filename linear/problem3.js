@@ -10,7 +10,7 @@
 
     { TransID: '299',
       Product: 'Cheese Croissant',
-      Amount: '1.75',
+      Price: '1.75',
       Type: 'Food' 
     }
     
@@ -21,17 +21,16 @@
         - iterate through the price list and return the price of a couple of items that we know
         we're going to have to sell first thing in the morning
     
-    Use the "my_data_structure" variable defined on line 47 to instantiate the data structure you want 
-    to use to solve this problem. Then within the lambda statement on line 52, use the correct 
+    Use the "my_data_structure" variable defined on line 46 to instantiate the data structure you want 
+    to use to solve this problem. Then within the lambda statement on line 51, use the correct 
     function for your chosen data structure to add each row parsed from the report file to your data
     structure. Finally, use the function "returnItemPrices" to define the logic you want to you with your 
-    data structure to count the number of times the last item in the list appears in the report. When you 
-    are ready to run your code, navigate the console to the folder that holds this file
-    ("cd linear"), then type the commands "npm install" and "npm run problem3" into the command line on 
-    repl.it to run the code. Remember,you can refer to the README file for the documentation for each type 
-    of data structure. Give it your best shot, but don't panic! It's more important that you choose the 
-    right data structure and attempt to implement the logic for that structure than finishing the problem. 
-    Good Luck!
+    data structure to create the new price list for the bakery. When you are ready to run your code, 
+    navigate the console to the folder that holds this file ("cd linear"), then type the commands 
+    "npm install" and "npm run problem3" into the command line on repl.it to run the code. Remember,you 
+    can refer to the README file for the documentation for each type of data structure. Give it your best shot, 
+    but don't panic! It's more important that you choose the right data structure and attempt to implement 
+    the logic for that structure than finishing the problem. Good Luck!
 */
 
 import TOCArray from "../structures/TOCArray";

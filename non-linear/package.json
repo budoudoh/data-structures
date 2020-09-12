@@ -1,0 +1,20 @@
+{
+  "name": "non-linear",
+  "version": "1.0.0",
+  "description": "",
+  "main": "problem1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "problem1": "node -r esm problem1.js",
+    "problem2": "node -r esm problem2.js",
+    "problem3": "node -r esm problem3.js",
+    "problem4": "node -r esm problem4.js",
+    "problem5": "node -r esm problem5.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "fast-csv": "^4.3.2"
+  }
+}

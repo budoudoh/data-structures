@@ -71,6 +71,7 @@ export default class TOCGraph{
         }
         return temp;
     }
+    
     size(){
         return this.graph.size;
     }
